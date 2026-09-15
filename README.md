@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Harshita+Singh;AI+%26+ML+Student;Problem+Solver;Building+Intelligent+Solutions" />
+</p>
 # Hi, I'm Harshita Singh 👋
 
 🎓 B.Tech CSE (AI & ML) Student at Galgotias University
@@ -35,3 +38,8 @@
 
 - LinkedIn:HarshitaSingh
 - Email:harshita103017@gmail.com
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Harshita29Singh&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshita29Singh&layout=compact&theme=tokyonight)
