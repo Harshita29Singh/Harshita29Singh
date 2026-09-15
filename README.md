@@ -19,6 +19,12 @@
 - 📊 Income Class Prediction – Machine Learning Project
 
 ## 🌱 Currently Learning
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+ML+Student;Machine+Learning+Enthusiast;Problem+Solver;Building+Intelligent+Solutions)](https://git.io/typing-svg)
+## 📊 GitHub Stats
+
+![Harshita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshita29Singh&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshita29Singh&layout=compact&theme=tokyonight)
 
 - Data Structures & Algorithms
 - Streamlit
